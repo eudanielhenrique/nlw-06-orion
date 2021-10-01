@@ -1,13 +1,3 @@
-<style type="text/css">
-#box{
-	width:300px;
-	height:100px;
-	background-color:#666;
-	border-radius: 10px;
-	}
-
-</style>
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,11 +11,11 @@
 </p>
 
 <br>
-<div id="box">
+
 <p align="center">
   <img alt="OriginSix" src="https://i.imgur.com/cRGBUj4.png" width="100%">
 </p>
-</div>
+
 
 ## Objetivo do projeto
 
