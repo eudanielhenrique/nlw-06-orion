@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src="assets/.git/projeto.png" width="100%">
+  <img alt="OriginSix" src="https://github.com/eudanielhenrique/nlw-06-orion/blob/main/assets/fotos/projeto.png?" width="100%">
 </p>
 
 
