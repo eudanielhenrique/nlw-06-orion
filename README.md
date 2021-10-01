@@ -46,7 +46,7 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 
 ## ✅ Melhorias a serem feitas
 
-Check list para colocar toda a página modelavel com PHP e SQL.
+Check list para colocar toda a página modeldavel.
 
 - [ ] Home
 - [ ] Sobre
