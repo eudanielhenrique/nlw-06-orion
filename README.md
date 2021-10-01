@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".git/projeto.png" width="100%">
+  <img alt="OriginSix" src="assets/.git/projeto.png" width="100%">
 </p>
 
 
